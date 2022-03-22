@@ -1,0 +1,942 @@
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+c:\users\fasio\documents\visual studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+H:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+H:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+H:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+E:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+C:\Users\Sir_Amin\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\fasio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+E:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+E:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+E:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+F:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+F:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+F:\ \Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JournalEntry.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.dailysale.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.empl_creat.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAddEditStaff.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAcc.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAccCRUD.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpurchasedrtn.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchDetails.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchReturnCRUD.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsaleacc.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Productlist.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.saledetail.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.dailysale.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.empl_creat.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAddEditStaff.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAcc.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAccCRUD.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpurchasedrtn.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchDetails.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchReturnCRUD.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsaleacc.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JournalEntry.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Productlist.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.saledetail.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\zia\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purxchasedbill.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAccruals.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbanktransfer.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbnkdeposit.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmEmpDeductions.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollPeriods.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollSlip.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Payrollprameters.resources
+F:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purxchasedbill.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.dailysale.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.empl_creat.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAccruals.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAddEditStaff.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbanktransfer.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbnkdeposit.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmEmpDeductions.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollPeriods.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollSlip.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAcc.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAccCRUD.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpurchasedrtn.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchDetails.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchReturnCRUD.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsaleacc.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JournalEntry.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Payrollprameters.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Productlist.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purxchasedbill.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.saledetail.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+H:\ \Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.dailysale.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.empl_creat.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAccruals.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAddEditStaff.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbanktransfer.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbnkdeposit.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmEmpDeductions.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollPeriods.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollSlip.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAcc.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAccCRUD.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpurchasedrtn.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchDetails.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchReturnCRUD.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsaleacc.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JournalEntry.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Payrollprameters.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Productlist.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purxchasedbill.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.saledetail.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+C:\Users\Fashio\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.dailysale.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.empl_creat.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAccruals.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmAddEditStaff.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbanktransfer.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbnkdeposit.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcompinfo.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmEmpDeductions.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewchart_acc.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollPeriods.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPayrollSlip.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAcc.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchAccCRUD.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpurchasedrtn.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchDetails.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchReturnCRUD.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsaleacc.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JournalEntry.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Payrollprameters.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.preferences.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Productlist.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purchsummry.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.purxchasedbill.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salcommrpt.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.saledetail.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salerptselect.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.stockstatus.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Tax_code.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.trialbalance.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ui_coa.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherentry.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.voucherrpt.resources
+C:\Users\Recknors_copaq\Documents\Visual Studio 2012\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\FlashControlV71.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\stdole.dll
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BankStUp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnwcoa.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Reports.FrmRptViewer.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APCreditmemo.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JobOrderFrm.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ServCard.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.wheSetUp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustGroup.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.VendrGroup.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSaleOpport.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frnBom.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDelivry.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustEquipCrd.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSlOrder.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSLQoute.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurQuot.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodRec.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmARCrMemo.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmChqSelection.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmOutPay.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmProdionOrdr.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.PayrolSetUp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurRetrn.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APSrvInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDeposit.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmUomStUp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBarCode.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmdisgrop.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPrdvolDis.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPoSInv.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmIncmPyvch.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPrcList.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmJrnlEntry.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPdOschedul.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBanks.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPymTrm.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltxjurdslctn.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltcoddetrmin.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodsRecpt.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmgdsIssue.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvTransReqst.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmInvTransfr.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBomCompo.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvCountng.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvOB.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchRequstt.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmisutoprodun.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmrecvFrmProdn.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmUGrp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmMnfact.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustmGrp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpkgSetp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurOrdr.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltJurdSetUp.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltTax_code.resources
+C:\Users\Fashio\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmItemGrp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\stdole.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APCreditmemo.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APSrvInv.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustEquipCrd.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmARCrMemo.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBanks.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBarCode.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBomCompo.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustmGrp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDeposit.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDelivry.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmdisgrop.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmgdsIssue.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodRec.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodsRecpt.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmIncmPyvch.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvCountng.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvOB.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmInvTransfr.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvTransReqst.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmisutoprodun.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmOutPay.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpkgSetp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPdOschedul.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPrcList.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPrdvolDis.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmProdionOrdr.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchRequstt.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurInv.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurQuot.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPymTrm.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmrecvFrmProdn.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSaleOpport.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSlOrder.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSLQoute.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltcoddetrmin.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltxjurdslctn.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmUGrp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmUomStUp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frnBom.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurOrdr.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.PayrolSetUp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPoSInv.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BankStUp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustGroup.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmMnfact.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmItemGrp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JobOrderFrm.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmChqSelection.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnwcoa.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmJrnlEntry.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurRetrn.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Reports.FrmRptViewer.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ServCard.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltJurdSetUp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltTax_code.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.VendrGroup.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.wheSetUp.resources
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Rashid\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\FlashControlV71.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\FlashControlV71.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\bin\Debug\stdole.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APCreditmemo.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APSrvInv.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustEquipCrd.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmARCrMemo.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBanks.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBarCode.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBomCompo.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustmGrp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDeposit.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDelivry.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmdisgrop.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmgdsIssue.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodRec.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodsRecpt.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmIncmPyvch.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvCountng.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvOB.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmInvTransfr.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvTransReqst.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmisutoprodun.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmOutPay.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpkgSetp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPdOschedul.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPrcList.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPrdvolDis.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmProdionOrdr.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchRequstt.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurInv.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurQuot.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPymTrm.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmrecvFrmProdn.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSaleOpport.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSlOrder.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSLQoute.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltcoddetrmin.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltxjurdslctn.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmUGrp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmUomStUp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frnBom.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurOrdr.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.PayrolSetUp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPoSInv.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BankStUp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustGroup.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmMnfact.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmItemGrp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JobOrderFrm.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmChqSelection.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnwcoa.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmJrnlEntry.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurRetrn.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Reports.FrmRptViewer.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ServCard.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltJurdSetUp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltTax_code.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.VendrGroup.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.wheSetUp.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.Cache
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\ShockwaveFlashObjects.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\USB Data\Accounting Sys\Accounting Sys\bin\Debug\stdole.dll
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojAssemblyReference.cache
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APCreditmemo.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APSrvInv.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustEquipCrd.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmARCrMemo.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBanks.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBarCode.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBomCompo.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustmGrp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDeposit.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDelivry.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmdisgrop.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmgdsIssue.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodRec.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodsRecpt.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmIncmPyvch.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvCountng.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvOB.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmInvTransfr.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvTransReqst.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmisutoprodun.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmOutPay.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpkgSetp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPdOschedul.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPrcList.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPrdvolDis.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmProdionOrdr.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchRequstt.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurInv.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurQuot.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPymTrm.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmrecvFrmProdn.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSaleOpport.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSlOrder.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSLQoute.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltcoddetrmin.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltxjurdslctn.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmUGrp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmUomStUp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frnBom.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurOrdr.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.PayrolSetUp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPoSInv.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BankStUp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustGroup.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmMnfact.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmItemGrp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JobOrderFrm.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmChqSelection.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnwcoa.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmJrnlEntry.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurRetrn.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Reports.FrmRptViewer.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ServCard.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltJurdSetUp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltTax_code.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.VendrGroup.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.wheSetUp.resources
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.cache
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.CoreCompileInputs.cache
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.CopyComplete
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+E:\USB Data\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe.config
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.exe
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\Accounting Sys.pdb
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\bin\Debug\stdole.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csprojAssemblyReference.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.acc_deter.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Alertmgmnt.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APCreditmemo.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.APSrvInv.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustEquipCrd.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmARCrMemo.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBanks.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBarCode.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmBomCompo.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustmGrp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDeposit.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmDelivry.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmdisgrop.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmgdsIssue.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodRec.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmGoodsRecpt.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmIncmPyvch.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvCountng.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvOB.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmInvTransfr.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmInvTransReqst.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmisutoprodun.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmOutPay.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmpkgSetp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPdOschedul.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPrcList.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPrdvolDis.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmProdionOrdr.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurchRequstt.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurInv.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurQuot.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPymTrm.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmrecvFrmProdn.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSaleOpport.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSlOrder.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmSLQoute.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltcoddetrmin.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmUGrp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmUomStUp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frnBom.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurOrdr.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.PayrolSetUp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmPoSInv.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.authurization.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BankStUp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.BinLocation.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.CustGroup.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmMnfact.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmItemGrp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.JobOrderFrm.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.custledger.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Employeesclu.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmbackups.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmChqSelection.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmChngpass.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmCurrency.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmcustinfo.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmempLoans.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogfile.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmlogin.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmMDI.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnewitem.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmnwcoa.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmopcomp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.FrmServiceInv.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmStockStatus.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmusrmgmnt.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmJrnlEntry.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.proflost.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Properties.Resources.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmPurRetrn.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.Reports.FrmRptViewer.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.salInv.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.ServCard.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.servicentry.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltJurdSetUp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.suppliermgmnt.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.sysinitial.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.frmsltTax_code.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.VendrGroup.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting_Sys.wheSetUp.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.GenerateResource.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.CoreCompileInputs.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.csproj.CopyComplete
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.exe
+C:\Users\Areshah\Documents\Visual Studio 2019\Accounting Sys\Accounting Sys\obj\Debug\Accounting Sys.pdb
